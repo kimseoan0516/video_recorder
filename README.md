@@ -116,9 +116,13 @@ https://github.com/user-attachments/assets/66256e03-d2aa-4f42-ad1e-9ecaba51bb33
 - shot 기능으로 저장한 실제 캡처 이미지 예시
 <img width="640" height="480" alt="snapshot_20260317_221317" src="https://github.com/user-attachments/assets/d24bb398-255d-4ec0-9685-f1cdc9b40f67" />
 
+
 - record 기능으로 저장한 실제 화면 녹화 영상 예시
 
-https://github.com/user-attachments/assets/1ce024d5-c9fe-4d84-80b6-b17c523a8e07
+https://github.com/user-attachments/assets/449e4f6d-a67d-4ad3-b10b-df5bc4cf218f
+
+
+
 
 
 
