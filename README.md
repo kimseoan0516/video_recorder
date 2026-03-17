@@ -119,7 +119,8 @@ https://github.com/user-attachments/assets/66256e03-d2aa-4f42-ad1e-9ecaba51bb33
 
 - record 기능으로 저장한 실제 화면 녹화 영상 예시
 
-https://github.com/user-attachments/assets/449e4f6d-a67d-4ad3-b10b-df5bc4cf218f
+https://github.com/user-attachments/assets/518b0d99-ae84-48bb-bc5c-7c9876f71dcc
+
 
 
 
